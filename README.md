@@ -1,7 +1,7 @@
 # Volltextsuche und Indexierung von unstrukturierten Daten mit Elasticsearch und MongoDB
 
 
-## Prolemstellung
+## Problemstellung
 Die Datenschutz-Grundverordnung (DSGVO), die am 25.05.2018 in Kraft getreten
 ist, sieht eine Reorganisation der Prozesse in den Unternehmen im Hinblick auf
 die Rechenschaftspflicht, die Transparenz, die Sicherheit und vieles mehr vor. Die
